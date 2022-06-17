@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Fist Application 2022</string>
+    <string name="next_Scrren">Next screen</string>
+    <string name="middle_screen">Middle screen</string>
+    <string name="previous_screen">Previous screen</string>
+    <string name="app_screen">Applicantion screen</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha primeira aplicação 2022</string>
+    <string name="next_Scrren">Próxima tela</string>
+    <string name="middle_screen">Tela intermediária</string>
+    <string name="previous_screen">Tela anterior</string>
+    <string name="app_screen">Tela da aplicação</string>
+</resources>
